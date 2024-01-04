@@ -4,8 +4,8 @@
 
 ## Education
 
-- Graduation in 2025 - 2021: B.S in Industrial Engineering and Management - Specialization in Information Systems | Data Science.
-- 2005-2017: full matriculation - 5 credits: computer science, English, Talmud, French. 4 units: Mathematics - School Beit Shemesh.
+- B.S in Industrial Engineering and Management | Specialization in Information Systems - Data Science.
+- Full Matriculation | 5 credits: computer science, English, Talmud, French. 4 units: Mathematics - School Beit Shemesh.
 
 ## Courses and Certifications
 
@@ -14,6 +14,15 @@
 -  Statistics for Data Analysis – Udemy
 -  SQL Expert Course - Udemy
 -  Specialization In Machine Learning - Master Fundamental AI Concepts And Develop Practical Machine Learning Skills - Coursera
+
+## My Personals Projects
+
+- [NLP](https://github.com/Nathdo/NLP)
+- [PyTorch](https://github.com/Nathdo/PyTorch-Model)
+- [Linear Regression Model](https://github.com/Nathdo/Linear-Regression-Model)
+- [Home Loan Prediction](https://github.com/Nathdo/Home-Loan-Approval-Prediction)
+- [ML & Analysis Superstore Project](https://github.com/Nathdo/Superstore-Marketing-Analysis-Machine-Learning)
+
 
 ## Military Service
 - 2018 – 2021: Troop support, military driver, Geffen Battalion.
