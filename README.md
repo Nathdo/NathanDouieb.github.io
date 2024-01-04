@@ -4,8 +4,8 @@
 
 ## Education
 
-- B.S in Industrial Engineering and Management | Specialization in Information Systems - Data Science.
-- Full Matriculation | 5 credits: computer science, English, Talmud, French. 4 units: Mathematics - School Beit Shemesh.
+- B.S in Industrial Engineering and Management., Specialization in Information Systems - Data Science.
+- Full Matriculation., 5 credits: computer science, English, Talmud, French. 4 units: Mathematics., School Beit Shemesh.
 
 ## Courses and Certifications
 
@@ -24,10 +24,8 @@
 - [ML & Analysis Superstore Project](https://github.com/Nathdo/Superstore-Marketing-Analysis-Machine-Learning)
 
 
-## Military Service
-- 2018 – 2021: Troop support, military driver, Geffen Battalion.
+## About Me
+Nathan Douieb, 24-year-old, student in my third year of industrial engineering, specializing in information systems. Presently, I work as a Data Analyst at the Ministry of Employment. I have been passionate about Python since the day I discovered the first lines of code. I can consider myself a pythonista (like geeks
+like to say it)
 
-## Languages:
-- French : native language
-- Hebrew : at a native language level. 
-- English :  Very good level.
+Then, in the infinite world of Python into which I immersed myself, I discovered other worlds. The world of Machine Learning, Deep Learning, Temporal Analysis Series, Data analysis of all kinds and in all forms.
